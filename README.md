@@ -14,5 +14,18 @@ Proyek aplikasi berbasis React yang dibangun menggunakan Vite, dirancang untuk m
 
 ## Struktur Folder
 
-vite-react-rakamin/ ├── public/ # File statis ├── src/ │ ├── assets/ # File CSS dan aset lainnya │ ├── App.css # Gaya utama aplikasi │ ├── App.jsx # Komponen utama aplikasi │ ├── index.css # Konfigurasi gaya global │ ├── main.jsx # Entry point aplikasi │ ├── ProductCard.jsx # Komponen kartu produk │ ├── ProductList.jsx # Komponen daftar produk ├── .gitignore # File yang diabaikan Git ├── index.html # Halaman HTML utama ├── package.json # Konfigurasi dependensi proyek ├── tailwind.config.js # Konfigurasi Tailwind CSS ├── vite.config.js 
-
+vite-react-rakamin/
+├── public/              # File statis
+├── src/                 
+│   ├── assets/          # File CSS dan aset lainnya
+│   ├── App.css          # Gaya utama aplikasi
+│   ├── App.jsx          # Komponen utama aplikasi
+│   ├── index.css        # Konfigurasi gaya global
+│   ├── main.jsx         # Entry point aplikasi
+│   ├── ProductCard.jsx  # Komponen kartu produk
+│   ├── ProductList.jsx  # Komponen daftar produk
+├── .gitignore           # File yang diabaikan Git
+├── index.html           # Halaman HTML utama
+├── package.json         # Konfigurasi dependensi proyek
+├── tailwind.config.js   # Konfigurasi Tailwind CSS
+├── vite.config.js       # Konfigurasi Vite
