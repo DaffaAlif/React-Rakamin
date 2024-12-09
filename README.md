@@ -29,3 +29,4 @@ vite-react-rakamin/
 ├── package.json         # Konfigurasi dependensi proyek
 ├── tailwind.config.js   # Konfigurasi Tailwind CSS
 ├── vite.config.js       # Konfigurasi Vite
+
