@@ -14,6 +14,7 @@ Proyek aplikasi berbasis React yang dibangun menggunakan Vite, dirancang untuk m
 
 ## Struktur Folder
 
+```bash
 vite-react-rakamin/
 ├── public/              # File statis
 ├── src/                 
@@ -29,4 +30,5 @@ vite-react-rakamin/
 ├── package.json         # Konfigurasi dependensi proyek
 ├── tailwind.config.js   # Konfigurasi Tailwind CSS
 ├── vite.config.js       # Konfigurasi Vite
+```
 
