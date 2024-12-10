@@ -84,8 +84,8 @@ const ProductList = () => {
         name="Smart Watch"
         price={99.99}
         description={"High Quality wireless Headphones with noise cancelation"}
-        inStock={true}
-        discountPercentage={15}
+        inStock={false}
+        discountPercentage={0}
         onAddToCart={() => handleAddToCart("Smart Watch")}
       />
 
