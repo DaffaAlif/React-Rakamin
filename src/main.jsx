@@ -9,8 +9,8 @@ import TaskManagerBSI from './TaskManagerBSI.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <ProductList />
-    <State/>
+    {/* <ProductList />
+    <State/> */}
     <TaskManagerBSI/>
   </StrictMode>,
 )
